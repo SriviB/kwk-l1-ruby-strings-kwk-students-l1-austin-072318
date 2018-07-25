@@ -18,4 +18,4 @@ puts "You are cordially invited to the Best Halloween Party Ever on #{date.capit
 puts ""
 puts "Sincerely,"
 puts ""
-puts host_name.capitalize
+puts "Harry Potter"
